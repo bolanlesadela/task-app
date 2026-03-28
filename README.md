@@ -3,7 +3,7 @@
 A full-stack task management web app built with Django. Add tasks, mark them complete, and delete them with persistent data in a database.
 
 <p align="center">
-  <img src="screenshots.png" width="700"/>
+  <img src="screenshot.png" width="700"/>
 </p>
 
 ## What it does
@@ -11,7 +11,7 @@ A full-stack task management web app built with Django. Add tasks, mark them com
 - Add tasks
 - Mark tasks as complete
 - Delete tasks
-- Data persists in SQLite database
+- Data persists in the SQLite database
 
 ## Tech Stack
 
